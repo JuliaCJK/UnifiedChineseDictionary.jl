@@ -1,9 +1,9 @@
-name = "<module-name>"
-uuid = ""
+name = "UnifiedChineseDictionary"
+uuid = "66a0f03c-ba01-495e-9ae3-2eabe54b0959"
 authors = ["Timothy Lin <32549553+tmthyln@users.noreply.github.com>"]
 version = "0.1.0"
 
 [deps]
 
 [compat]
-julia = "1"
+julia = "1.3"

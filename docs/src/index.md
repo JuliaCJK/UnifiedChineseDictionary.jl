@@ -1,4 +1,4 @@
-# <package-name> Documentation
+# UnifiedChineseDictionary.jl Documentation
 
 
 
