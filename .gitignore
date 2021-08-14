@@ -23,7 +23,5 @@ docs/site/
 # environment.
 Manifest.toml
 
-# development/IDE files
-.idea/
+# temporary directories
 /cache/
-.envrc
